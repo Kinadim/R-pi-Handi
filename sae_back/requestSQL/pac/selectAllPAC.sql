@@ -1,0 +1,15 @@
+Select 
+    id,
+    lastname,
+    firstname,
+    description,
+    birthdate,
+    clean,
+    mobility,
+    talk,
+    blind,
+    epilepsy,
+    deaf,
+    id_user
+from 
+    pac
